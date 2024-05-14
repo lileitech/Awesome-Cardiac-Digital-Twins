@@ -35,7 +35,7 @@ They also contribute to a deeper understanding of cardiac physiology and pathoph
 
 ## Research Groups
 
-| Team/ Project Name                                                                              | PI                | Institute                                       |
+| Team/ Lab                                                                    | PI                | Institute                                       |
 |-------------------------------------------------------------------------------------------------|-------------------|------------------------------------------------|
 | [Computational Cardiovascular Science Team](https://www.cs.ox.ac.uk/ccs/index.html)             | Blanca Rodriguez  | University of Oxford, UK                       |
 | [Computational Cardiology Lab (CCL)](https://ccl.medunigraz.at/)                                | Gernot Plank      | Medical University of Graz, Austria             |
@@ -53,12 +53,6 @@ They also contribute to a deeper understanding of cardiac physiology and pathoph
 | [UT-Heart](http://ut-heart.com/)                                                                 | Toshiaki Hisada   | University of Tokyo, Japan                      |
 | [Leeds Systems Physiology Lab](http://physicsoftheheart.com/LCPL.html)                            | Michael A Colman, Al Benson | University OF Leeds, UK             |
 | [Digital Heart Modeling Lab](https://lileitech.github.io/)                                        | Lei Li            | University of Southampton, UK                   |
-|                                                                                                  |                   |                                                |
-| [EDITH](https://www.edith-csa.eu/edith/)                                                         | N/A               | European Virtual Human Twin                    |
-| [Virtual Physiological Human (VPH) Projects](https://www.vph-institute.org/)                     | N/A               | Virtual Physiological Human Institute, Belgium  |
-| [Living Heart Project](https://www.3ds.com/products-services/simulia/solutions/life-sciences-healthcare/the-living-heart-project/) | Steven M. Levine | Dassault Systèmes                               |
-| [John’s Digital Twin](https://www.siemens-healthineers.com/perspectives/patient-twin-johns-heart) | N/A               | Siemens Healthineers                            |
-
 
 ## Software
 
