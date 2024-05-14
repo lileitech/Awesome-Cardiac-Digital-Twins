@@ -31,7 +31,7 @@ Cardiac digital twins are personalized virtual representations combining cardiac
 CDT workflows usually involve two stages, namely anatomical and functional twinnings, as shown in Fig. 1 [2].
 
 <figure>
-  <img src="images/fig_cardiac_digital_twins.png" alt="CDTs" style="width:900px;height:300px;">
+  <img src="images/fig_cardiac_digital_twins.png" alt="CDTs" style="width:750px;height:250px;">
   <figcaption>Fig. 1 The cardiac digital twin generation workflow.</figcaption>
 </figure>
 
@@ -108,6 +108,5 @@ Here, we summarize the representative research teams and organizations in the co
 
 ## Reference
 
-1. Corral-Acero, Jorge, et al. "The ‘Digital Twin’to enable the vision of precision cardiology." European heart journal 41.48 (2020): 4556-4564. [link](https://academic.oup.com/eurheartj/article/41/48/4556/5775673)
-2. Li, Lei, et al. "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference." IEEE Transactions on Medical Imaging (2024). [link](https://ieeexplore.ieee.org/abstract/document/10440104)
-3. 
+[1]: Corral-Acero, Jorge, et al. "The ‘Digital Twin’to enable the vision of precision cardiology." European heart journal 41.48 (2020): 4556-4564. [link](https://academic.oup.com/eurheartj/article/41/48/4556/5775673)
+[2]: Li, Lei, et al. "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference." IEEE Transactions on Medical Imaging (2024). [link](https://ieeexplore.ieee.org/abstract/document/10440104)
