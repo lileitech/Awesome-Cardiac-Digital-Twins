@@ -13,6 +13,7 @@ This is a curated repository of awesome Cardiac Digital Twin resources. Research
   - [Research Group](#research-group)
   - [Project](#project)
   - [Software](#software)
+  - [Public Dataset](#public-dataset)
   - [Videos](#videos)
   - [Reference](#reference)
 
@@ -59,6 +60,11 @@ Here, we summarize the representative research teams and organizations in the co
 ## Software
 
 - Cardiac Electrophysiology Simulator: [openCARP](https://opencarp.org/)
+
+## Public Dataset
+
+- [EDGAR database](https://www.ecg-imaging.org/edgar-database): public dataset for the application and validation of ECGI techniques.
+- [MyoFit46](https://myofit46.com/): paired high-density surface ECGI and cardiac MRI.
 
 ## Videos
 
