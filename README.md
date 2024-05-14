@@ -30,7 +30,10 @@ They also contribute to a deeper understanding of cardiac physiology and pathoph
 Cardiac digital twins are personalized virtual representations combining cardiac images, ECG, and other subject-specific information [1].
 CDT workflows usually involve two stages, namely anatomical and functional twinnings, as shown in Fig. 1 [2].
 
-![Fig. 1 The cardiac digital twin generation workflow](images/fig_cardiac_digital_twins.png){: width="300" height="100"}
+<figure>
+  <img src="images/fig_cardiac_digital_twins.png" alt="CDTs" style="width:300px;height:100px;">
+  <figcaption>Fig. 1 The cardiac digital twin generation workflow.</figcaption>
+</figure>
 
 ## Research Group
 
