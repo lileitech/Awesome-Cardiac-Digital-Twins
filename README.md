@@ -1,7 +1,9 @@
 
 # Awesome Cardiac Digital Twins [![Awesome](https://awesome.re/badge.svg)](https://github.com/lileitech/Awesome-Cardiac-Digital-Twins)
 
-This is a curated repository of awesome Cardiac Digital Twin resources. Research and industry leverage cardiac digital twins to simulate and predict individualized responses to interventions, aid in diagnosis and treatment planning, optimize therapy strategies, and personalize patient care. Welcome to contribute any useful content!
+This is a curated repository of awesome Cardiac Digital Twin resources. Research and industry leverage cardiac digital twins to simulate and predict individualized responses to interventions, aid in diagnosis and treatment planning, optimize therapy strategies, and personalize patient care.
+
+**Welcome to any contribute to make the resources more complehensive for beginner!**
 
 ## Contents
 
