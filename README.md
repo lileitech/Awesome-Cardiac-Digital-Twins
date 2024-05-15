@@ -12,10 +12,13 @@ This is a curated repository of awesome Cardiac Digital Twin resources. Research
   - [Definition](#definition)
   - [Research Group](#research-group)
   - [Project](#project)
+  - [Company](#company)
   - [Software](#software)
   - [Tutorial](#tutorial)
+  - [Blog](#blog)
   - [Public Dataset](#public-dataset)
   - [Videos](#videos)
+  - [News](#news)
   - [Reference](#reference)
 
 ## Definition
@@ -30,13 +33,15 @@ CDT workflows usually involve two stages, namely anatomical and functional twinn
 
 ## Research Group
 
-Here, we summarize the representative research teams and organizations in the computational cardiology and electrocardiography. Note that we only list one PI name, but there may be more than one PI in a team/ lab.
+Here, we summarize the representative research teams and organizations in the computational cardiology and electrocardiography. Note that we only list one PI name, but there may be more than one PI in a team/ lab. Furthermore, some amazing labs/ PI have not included in this table as they do not have a official lab name.
 
 | Team/ Lab                                                                    | PI                | Institute                                       |
 |-------------------------------------------------------------------------------------------------|-------------------|------------------------------------------------|
-| [Computational Cardiovascular Science Team](https://www.cs.ox.ac.uk/ccs/index.html)             | [Prof Blanca Rodriguez](https://scholar.google.com/citations?user=qYidL6sAAAAJ&hl=en)  | University of Oxford, UK                       |
+| [Computational Cardiovascular Science Team](https://www.cs.ox.ac.uk/ccs/index.html)             | [Prof Blanca Rodriguez](https://scholar.google.com/citations?user=qYidL6sAAAAJ&hl=en)  | University of Oxford, UK  |
+| [Computational Biology Group](https://www.cs.ox.ac.uk/compbio/)             | [Prof David Gavaghan](https://scholar.google.com/citations?user=riGX3YsAAAAJ&hl=en)  | University of Oxford, UK  |
 | [Computational Cardiology Lab (CCL)](https://ccl.medunigraz.at/)                                | [Prof Gernot Plank](https://scholar.google.com/citations?user=HAYpTDYAAAAJ&hl=en)      | Medical University of Graz, Austria             |
-| [Trayanova Lab](http://www.trayanovalab.org/)                                                    | [Prof Natalia Trayanova](https://scholar.google.com/citations?user=oY3ePQ8AAAAJ&hl=en) | Johns Hopkins University, US                    |
+| [Trayanova Lab](http://www.trayanovalab.org/)                                                    | [Prof Natalia Trayanova](https://scholar.google.com/citations?user=oY3ePQ8AAAAJ&hl=en) | Johns Hopkins University, US                 |
+| [Yoram Rudy Lab](https://rudylab.wustl.edu/)                                        | [Prof Yoram Rudy](https://rudylab.wustl.edu/people/yoram_rudy/)            | Washington University in St. Louis, US                 |
 | [Computational Electrocardiology Lab](https://cvrti.utah.edu/the-macleod-laboratory/)            | [Prof Rob MacLeod](https://scholar.google.com/citations?user=seAo310AAAAJ&hl=en)       | University of Utah, US                         |
 | [Modelling and Scientific Computing Laboratory (MOX)](https://mox.polimi.it/)                    | [Prof Alfio Quarteroni](https://scholar.google.it/citations?user=U-iDlKcAAAAJ&hl=en)  | Politecnico di Milano, Italy                    |
 | [Cardiac Electro-Mechanics Research Group (CEMRG)](https://www.cemrg.co.uk/)                    | [Prof Steven Niederer](https://scholar.google.com/citations?user=rtBzy78AAAAJ&hl=en)   | Imperial College London, UK                    |
@@ -45,10 +50,11 @@ Here, we summarize the representative research teams and organizations in the co
 | [Computational Cardiac Modeling Group (CaMo)](https://www.ibt.kit.edu/english/camo.php)          | [Prof Axel Loewe](https://scholar.google.de/citations?user=dLThgu0AAAAJ&hl=de)        | Karlsruhe Institute of Technology, Germany      |
 | [Cardiac Electrophysiology Group](https://www.auckland.ac.nz/en/abi/our-research/research-groups-themes/cardiac-electrophysiology.html) | [Prof Bruce Smaill](https://scholar.google.co.nz/citations?user=mUlyaLsAAAAJ&hl=en) | University of Auckland, New Zealand     |
 | [Cardiac Computation Lab](https://cclab.med.ucla.edu/)                                           | [Prof Zhilin Qu](https://scholar.google.com/citations?user=WD2JcI4AAAAJ&hl=en)         | University of California, US                    |
-| [Computational Arrhythmia Research Lab](http://web.stanford.edu/group/narayanlab/cgi-bin/wordpress/) | Sanjiv Narayan | Stanford University, US                         |
+| [Computational Arrhythmia Research Lab](http://web.stanford.edu/group/narayanlab/cgi-bin/wordpress/) | [Prof Sanjiv Narayan](https://scholar.google.com/citations?user=355c8nQAAAAJ&hl=en) | Stanford University, US                         |
 | [Living Matter Lab](https://livingmatter.stanford.edu/)                                           | [Prof Ellen Kuhl](https://scholar.google.com/citations?hl=en&user=jjQDKYYAAAAJ&view_op=list_works&sortby=pubdate)        | Stanford University, US                         |
 | [UT-Heart](http://ut-heart.com/)                                                                 | [Prof Toshiaki Hisada](https://dblp.org/pid/29/2299.html)   | University of Tokyo, Japan                      |
-| [Leeds Systems Physiology Lab](http://physicsoftheheart.com/LCPL.html)                            | [Prof Michael A Colman](https://scholar.google.co.uk/citations?user=l8u7gSsAAAAJ&hl=en), [Prof Al Benson](https://scholar.google.co.uk/citations?user=XtVFdUkAAAAJ&hl=en) | University Of Leeds, UK             |
+| [Leeds Systems Physiology Lab](http://physicsoftheheart.com/LCPL.html)                            | [Dr Michael A Colman](https://scholar.google.co.uk/citations?user=l8u7gSsAAAAJ&hl=en), [Prof Al Benson](https://scholar.google.co.uk/citations?user=XtVFdUkAAAAJ&hl=en) | University Of Leeds, UK             |
+| [Cardiovascular Magnetic Resonance Group](https://cmr.ethz.ch/)                                        | [Prof Sebastian Kozerke](https://scholar.google.ch/citations?user=Y8rEIXMAAAAJ&hl=de)            | ETH Zurich, Switzerland                   |
 | [Digital Heart Modeling Lab](https://lileitech.github.io/)                                        | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)            | University of Southampton, UK                   |
 
 ## Project
@@ -57,16 +63,29 @@ Here, we summarize the representative research teams and organizations in the co
 - [John’s Digital Twin](https://www.siemens-healthineers.com/perspectives/patient-twin-johns-heart): Siemens Healthineers
 - [EDITH](https://www.edith-csa.eu/edith/): European Virtual Human Twin
 - [Virtual Physiological Human (VPH) Projects](https://www.vph-institute.org/): Virtual Physiological Human Institute, Belgium
+- [iHEART](https://iheart.polimi.it/en/home/): An Integrated Heart Model for the Simulation of the Cardiac Function
+- [preDiCT](https://podcasts.ox.ac.uk/predict-cardiac-electrophysiology-modeling): a major EU-funded project to make computer models of cardiac electrophysiology, to help predict drug safety.
+
+## Company
+
+- [Corify Care](https://corify.es/): A spain company focusing on changing the paradigm of treatment of atrial fibrillation patients by allowing personalised treatments.
 
 ## Software
 
-- [openCARP](https://opencarp.org/): open-access cardiac electrophysiology simulator.
+- [openCARP](https://opencarp.org/): an open-access cardiac electrophysiology simulator.
+- [Life x](https://lifex.gitlab.io/cfd.html): an open source library for high performance finite element simulations of multiphysics, multiscale and multidomain problems.
 - [Paper ECG Digitization Tool](http://ecg-digitisation.hh.med.ic.ac.uk:8050/) [3]: allow users to upload scanned ECGs to extract the digital signals (ECG pre-processing might be required).
+- [Chaste](https://github.com/Chaste): an open source C++ library for computational physiology and biology [4].
+- [Alya](https://compbiomedeu.github.io/applications/Alya/Alya.html): a multi-scale, multi-physics cardiac simulation code.
 
 ## Tutorial
 
 - [EP simulator](https://www.ep-simulator.com/): Basic courses of cardiac electrophysiology.
 - [openCARP tutorials](https://opencarp.org/documentation/video-tutorials): Basic courses of cardiac electrophysiology.
+
+## Blog
+
+- [Mathematical Matters of the Heart](https://mirams.wordpress.com/): written by [Prof. Gary Mirams](https://www.maths.nottingham.ac.uk/plp/pmzgm/).
 
 ## Public Dataset
 
@@ -80,6 +99,13 @@ Here, we summarize the representative research teams and organizations in the co
 - [Your Personal Virtual Heart | Natalia Trayanova | TEDxJHU](https://www.youtube.com/watch?v=wSDMPxGGy3A&t=618s).
 - [Heart research, AI and digital twins](https://www.youtube.com/watch?v=jZz9TfvRHs4).
 - [Personalized Cardiology Powered by AI and Computational Modeling - Prof Natalia Trayanova (JHU)](https://www.youtube.com/watch?v=kcwMSqtFPOQ&t=2381s)
+- [A mathematical microscope for non-invasive heart diagnostics](https://www.youtube.com/watch?v=ehL-YDc6-5w)
+
+## News
+
+- 31 Mar, 2023: [Virtual You: how digital twins will transform medicine](https://blog.sciencemuseum.org.uk/virtual-you-how-digital-twins-will-transform-medicine/)
+- 4 Feb, 2019: [FDA approved clinical trial for the utility of computer simulations driving atrial ablation procedure](https://heartadvance.jhu.edu/2019/02/04/fda-approves-dr-trayanovas-application-for-atrial-ablation-clinical-trial/)
+- 17 Sep, 2015: [Personalized heart models for surgical planning](https://news.mit.edu/2015/3-d-printed-heart-models-surgery-0917)
 
 ## Reference
 
@@ -89,3 +115,4 @@ Here, we summarize the representative research teams and organizations in the co
 
 [3]: Wu, Huiyi, et al. "A fully-automated paper ECG digitisation algorithm using deep learning." Scientific Reports 12.1 (2022): 20963. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9722713/)
 
+[4]: Mirams, Gary R., et al. "Chaste: an open source C++ library for computational physiology and biology." PLoS computational biology 9.3 (2013): e1002970. [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002970)
