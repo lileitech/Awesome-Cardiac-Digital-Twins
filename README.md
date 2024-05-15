@@ -33,7 +33,7 @@ CDT workflows usually involve two stages, namely anatomical and functional twinn
 
 ## Research Group
 
-Here, we summarize the representative research teams and organizations in the computational cardiology and electrocardiography. Note that we only list one PI name, but there may be more than one PI in a team/ lab. Furthermore, some amazing labs/ PI have not included in this table as they do not have a official lab name.
+Here, we summarize the representative research teams and organizations in the computational cardiology and electrocardiography. Note that we only list one PI name, but there may be more than one PI in a team/ lab. Furthermore, some amazing labs/ PIs have not included in this table as they do not have a official lab name.
 
 | Team/ Lab                                                                    | PI                | Institute                                       |
 |-------------------------------------------------------------------------------------------------|-------------------|------------------------------------------------|
@@ -64,7 +64,7 @@ Here, we summarize the representative research teams and organizations in the co
 - [EDITH](https://www.edith-csa.eu/edith/): European Virtual Human Twin
 - [Virtual Physiological Human (VPH) Projects](https://www.vph-institute.org/): Virtual Physiological Human Institute, Belgium
 - [iHEART](https://iheart.polimi.it/en/home/): An Integrated Heart Model for the Simulation of the Cardiac Function
-- [preDiCT](https://podcasts.ox.ac.uk/predict-cardiac-electrophysiology-modeling): a major EU-funded project to make computer models of cardiac electrophysiology, to help predict drug safety.
+- [preDiCT](https://podcasts.ox.ac.uk/predict-cardiac-electrophysiology-modeling): A major EU-funded project to make computer models of cardiac electrophysiology for drug safety prediction.
 
 ## Company
 
@@ -74,7 +74,7 @@ Here, we summarize the representative research teams and organizations in the co
 
 - [openCARP](https://opencarp.org/): an open-access cardiac electrophysiology simulator.
 - [Life x](https://lifex.gitlab.io/cfd.html): an open source library for high performance finite element simulations of multiphysics, multiscale and multidomain problems.
-- [Paper ECG Digitization Tool](http://ecg-digitisation.hh.med.ic.ac.uk:8050/) [3]: allow users to upload scanned ECGs to extract the digital signals (ECG pre-processing might be required).
+- [Paper ECG Digitization Tool](http://ecg-digitisation.hh.med.ic.ac.uk:8050/): allow users to upload scanned ECGs to extract the digital signals (ECG pre-processing might be required) [3].
 - [Chaste](https://github.com/Chaste): an open source C++ library for computational physiology and biology [4].
 - [Alya](https://compbiomedeu.github.io/applications/Alya/Alya.html): a multi-scale, multi-physics cardiac simulation code.
 
