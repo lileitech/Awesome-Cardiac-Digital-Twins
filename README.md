@@ -33,7 +33,7 @@ CDT workflows usually involve two stages, namely anatomical and functional twinn
 
 ## Research Group
 
-Here, we summarize the representative research teams and organizations in the computational cardiology and electrocardiography. Note that we only list one PI name, but there may be more than one PI in a team/ lab. Furthermore, some amazing labs/ PIs have not included in this table as they do not have a official lab name.
+Here, we summarize the representative research teams and organizations in the computational cardiology and electrocardiography. Note that we may only list one PI name, but there may be more than one PI in a team/ lab. Furthermore, some amazing labs/ PIs have not included in this table as I did not find they have a official lab name.
 
 | Team/ Lab                                                                    | PI                | Institute                                       |
 |-------------------------------------------------------------------------------------------------|-------------------|------------------------------------------------|
@@ -56,8 +56,11 @@ Here, we summarize the representative research teams and organizations in the co
 | [Leeds Systems Physiology Lab](http://physicsoftheheart.com/LCPL.html)                            | [Dr Michael A Colman](https://scholar.google.co.uk/citations?user=l8u7gSsAAAAJ&hl=en), [Prof Al Benson](https://scholar.google.co.uk/citations?user=XtVFdUkAAAAJ&hl=en) | University Of Leeds, UK             |
 | [Cardiovascular Magnetic Resonance Group](https://cmr.ethz.ch/)                                        | [Prof Sebastian Kozerke](https://scholar.google.ch/citations?user=Y8rEIXMAAAAJ&hl=de)            | ETH Zurich, Switzerland                   |
 | [Personalized Cardiac Modelling Lab](https://pcmlab.co.uk/#:~:text=%2D%20Personalised%20Cardiac%20Modelling%20Lab,treatment%20approaches%20for%20cardiac%20arrhythmias.)                                        | [Dr Caroline Roney](https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en)            | Queen Mary University of London, UK                   |
-| [Imaging Lab](https://person.zju.edu.cn/en/0003436)                                        | [Prof Huafeng Liu](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en&oi=sra)            | Zhejiang University, China                   |
 | [Digital Heart Modeling Lab](https://lileitech.github.io/)                                        | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)            | University of Southampton, UK                   |
+| [N/A](https://person.zju.edu.cn/0003436)                                       | [Prof Huafeng Liu 刘华峰](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en&oi=sra)            | Zhejiang University, China                   |
+| [N/A](https://person.zju.edu.cn/en/lingxia) | [Prof Ling Xia 夏灵](https://www.researchgate.net/scientific-contributions/Ling-Xia-47250411)            | Zhejiang University, China                   |
+| [N/A](http://faculty.dlut.edu.cn/dengdongdong/zh_CN/zhym/1071290/list/index.htm)                                       | [Prof Dongdong Deng 邓东冬](https://scholar.google.com/citations?user=dyoKMrAAAAAJ&hl=en)            | Dalian University of Technology, China                   |
+
 
 ## Project
 
