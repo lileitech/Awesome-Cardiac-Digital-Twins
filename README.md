@@ -55,6 +55,7 @@ Here, we summarize the representative research teams and organizations in the co
 | [UT-Heart](http://ut-heart.com/)                                                                 | [Prof Toshiaki Hisada](https://dblp.org/pid/29/2299.html)   | University of Tokyo, Japan                      |
 | [Leeds Systems Physiology Lab](http://physicsoftheheart.com/LCPL.html)                            | [Dr Michael A Colman](https://scholar.google.co.uk/citations?user=l8u7gSsAAAAJ&hl=en), [Prof Al Benson](https://scholar.google.co.uk/citations?user=XtVFdUkAAAAJ&hl=en) | University Of Leeds, UK             |
 | [Cardiovascular Magnetic Resonance Group](https://cmr.ethz.ch/)                                        | [Prof Sebastian Kozerke](https://scholar.google.ch/citations?user=Y8rEIXMAAAAJ&hl=de)            | ETH Zurich, Switzerland                   |
+| [Personalized Cardiac Modelling Lab](https://pcmlab.co.uk/#:~:text=%2D%20Personalised%20Cardiac%20Modelling%20Lab,treatment%20approaches%20for%20cardiac%20arrhythmias.)                                        | [Dr Caroline Roney](https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en)            | Queen Mary University of London, UK                   |
 | [Digital Heart Modeling Lab](https://lileitech.github.io/)                                        | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)            | University of Southampton, UK                   |
 
 ## Project
@@ -65,6 +66,7 @@ Here, we summarize the representative research teams and organizations in the co
 - [Virtual Physiological Human (VPH) Projects](https://www.vph-institute.org/): Virtual Physiological Human Institute, Belgium
 - [iHEART](https://iheart.polimi.it/en/home/): An Integrated Heart Model for the Simulation of the Cardiac Function
 - [preDiCT](https://podcasts.ox.ac.uk/predict-cardiac-electrophysiology-modeling): A major EU-funded project to make computer models of cardiac electrophysiology for drug safety prediction.
+- [EPSRC digital twins](https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/digital-twins-and-cyber-physical-infrastructure/).
 
 ## Company
 
@@ -92,9 +94,11 @@ Here, we summarize the representative research teams and organizations in the co
 - [EDGAR database](https://www.ecg-imaging.org/edgar-database): public dataset for the application and validation of ECGI techniques.
 - [MyoFit46](https://myofit46.com/): paired high-density surface ECGI and cardiac MRI.
 - [UK Biobank](https://www.ukbiobank.ac.uk/): paired cine MRI and 12-lead ECG data.
+- [Virtual cohort of four chamber heart from KCL](https://zenodo.org/records/3890034): 24 four-chamber hearts, built from heart failure patients.
+ 
+## Videos/ Podcast
 
-## Videos
-
+- [Update: Now featuring a podcast – Taking a look at Digital Twin Technology: a new frontier in personalised healthcare](https://www.myesr.org/ai-blog/taking-a-look-at-digital-twin-technology-a-new-frontier-in-personalised-healthcare/).
 - [Digital twin heart – Computer model for an optimized therapy success](https://www.youtube.com/watch?v=skr_cjJJFrc).
 - [Your Personal Virtual Heart | Natalia Trayanova | TEDxJHU](https://www.youtube.com/watch?v=wSDMPxGGy3A&t=618s).
 - [Heart research, AI and digital twins](https://www.youtube.com/watch?v=jZz9TfvRHs4).
