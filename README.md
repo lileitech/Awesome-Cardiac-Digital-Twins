@@ -74,8 +74,8 @@ Here, we summarize the representative research teams and organizations in the co
 
 ## Company
 
-- [inHeart](https://www.inheartmedical.com/): A france company to develop the advanced, AI-enabled digital twin of the heart for image-guided ablations.
-- [Corify Care](https://corify.es/): A spain company focusing on changing the paradigm of treatment of atrial fibrillation patients by allowing personalised treatments.
+- [inHeart](https://www.inheartmedical.com/): A France company to develop the advanced, AI-enabled digital twin of the heart for image-guided ablations.
+- [Corify Care](https://corify.es/): A Spain company focusing on changing the paradigm of treatment of atrial fibrillation patients by allowing personalised treatments.
 
 ## Software
 
