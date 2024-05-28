@@ -17,7 +17,7 @@ This is a curated repository of awesome Cardiac Digital Twin resources. Research
   - [Tutorial](#tutorial)
   - [Blog](#blog)
   - [Public Dataset](#public-dataset)
-  - [Videos/ Podcast](#videos-podcast)
+  - [Videos](#videos)
   - [News](#news)
   - [Reference](#reference)
 
@@ -57,7 +57,7 @@ Here, we summarize the representative research teams and organizations in the co
 | [Cardiovascular Magnetic Resonance Group](https://cmr.ethz.ch/)                                        | [Prof Sebastian Kozerke](https://scholar.google.ch/citations?user=Y8rEIXMAAAAJ&hl=de)            | ETH Zurich, Switzerland                   |
 | [Personalized Cardiac Modelling Lab](https://pcmlab.co.uk/#:~:text=%2D%20Personalised%20Cardiac%20Modelling%20Lab,treatment%20approaches%20for%20cardiac%20arrhythmias.)                                        | [Dr Caroline Roney](https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en)            | Queen Mary University of London, UK                   |
 | [Digital Heart Modeling Lab](https://lileitech.github.io/)                                        | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)            | University of Southampton, UK                   |
-| [N/A](https://person.zju.edu.cn/0003436)                                       | [Prof Huafeng Liu 刘华峰](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en&oi=sra)            | Zhejiang University, China                   |
+| [N/A](https://person.zju.edu.cn/0003436)   | [Prof Huafeng Liu 刘华峰](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en&oi=sra)            | Zhejiang University, China                   |
 | [N/A](https://person.zju.edu.cn/en/lingxia) | [Prof Ling Xia 夏灵](https://www.researchgate.net/scientific-contributions/Ling-Xia-47250411)            | Zhejiang University, China                   |
 | [N/A](http://faculty.dlut.edu.cn/dengdongdong/zh_CN/zhym/1071290/list/index.htm)                                       | [Prof Dongdong Deng 邓东冬](https://scholar.google.com/citations?user=dyoKMrAAAAAJ&hl=en)            | Dalian University of Technology, China                   |
 
@@ -74,8 +74,7 @@ Here, we summarize the representative research teams and organizations in the co
 
 ## Company
 
-- [inHeart](https://www.inheartmedical.com/): A France company to develop the advanced, AI-enabled digital twin of the heart for image-guided ablations.
-- [Corify Care](https://corify.es/): A Spain company focusing on changing the paradigm of treatment of atrial fibrillation patients by allowing personalised treatments.
+- [Corify Care](https://corify.es/): A spain company focusing on changing the paradigm of treatment of atrial fibrillation patients by allowing personalised treatments.
 
 ## Software
 
@@ -101,6 +100,7 @@ Here, we summarize the representative research teams and organizations in the co
 - [MyoFit46](https://myofit46.com/): paired high-density surface ECGI and cardiac MRI.
 - [UK Biobank](https://www.ukbiobank.ac.uk/): paired cine MRI and 12-lead ECG data.
 - [Virtual cohort of four chamber heart from KCL](https://zenodo.org/records/3890034): 24 four-chamber hearts, built from heart failure patients.
+- [MedalCare-XL](https://zenodo.org/records/8068944): 16,900 healthy and pathological synthetic 12 lead ECGs obtained via ECG simulation.
  
 ## Videos/ Podcast
 
