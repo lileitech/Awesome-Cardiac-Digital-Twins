@@ -57,7 +57,7 @@ Here, we summarize the representative research teams and organizations in the co
 | [Cardiovascular Magnetic Resonance Group](https://cmr.ethz.ch/)                                        | [Prof Sebastian Kozerke](https://scholar.google.ch/citations?user=Y8rEIXMAAAAJ&hl=de)            | ETH Zurich, Switzerland                   |
 | [Personalized Cardiac Modelling Lab](https://pcmlab.co.uk/#:~:text=%2D%20Personalised%20Cardiac%20Modelling%20Lab,treatment%20approaches%20for%20cardiac%20arrhythmias.)                                        | [Dr Caroline Roney](https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en)            | Queen Mary University of London, UK                   |
 | [Peirlinck Lab](https://peirlincklab.com/) | [Dr Mathias Peirlinck](https://scholar.google.be/citations?user=vM2KbLQAAAAJ&hl=nl)            | Delft University of Technology, Netherlands                   |
-| [Digital Heart Modeling Lab](https://lileitech.github.io/)                                        | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)            | University of Southampton, UK                   |
+| [Digital Heart Lab](https://digitalheartlab.com/)                                        | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)            | University of Southampton, UK                   |
 | [N/A](https://person.zju.edu.cn/0003436)   | [Prof Huafeng Liu 刘华峰](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en&oi=sra)            | Zhejiang University, China                   |
 | [N/A](https://person.zju.edu.cn/en/lingxia) | [Prof Ling Xia 夏灵](https://www.researchgate.net/scientific-contributions/Ling-Xia-47250411)            | Zhejiang University, China                   |
 | [N/A](http://faculty.dlut.edu.cn/dengdongdong/zh_CN/zhym/1071290/list/index.htm)                                       | [Prof Dongdong Deng 邓东冬](https://scholar.google.com/citations?user=dyoKMrAAAAAJ&hl=en)            | Dalian University of Technology, China                   |
@@ -85,6 +85,8 @@ Here, we summarize the representative research teams and organizations in the co
 - [Chaste](https://github.com/Chaste): an open source C++ library for computational physiology and biology [4].
 - [Alya](https://compbiomedeu.github.io/applications/Alya/Alya.html): a multi-scale, multi-physics cardiac simulation code.
 - [ECGSIM](https://www.ecgsim.org/introduction.php): an interactive tool for studying the genesis of QRST waveforms [5].
+- [MonoAlg3D_C](https://github.com/rsachetto/MonoAlg3D_C): an open-source high-performance GPU solver to numerically solve the monodomain equation.
+- [Eikonal model based ECG simulator](https://github.com/juliacamps/Inference-of-healthy-ventricular-activation-properties): an open-source fast Eikonal model based simulator (check the function eikonal_ecg).
 
 ## Tutorial
 
