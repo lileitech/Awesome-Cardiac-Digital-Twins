@@ -76,6 +76,7 @@ Here, we summarize the representative research teams and organizations in the co
 ## Company
 
 - [Corify Care](https://corify.es/): A spain company focusing on changing the paradigm of treatment of atrial fibrillation patients by allowing personalised treatments.
+- []
 
 ## Software
 
@@ -87,6 +88,10 @@ Here, we summarize the representative research teams and organizations in the co
 - [ECGSIM](https://www.ecgsim.org/introduction.php): an interactive tool for studying the genesis of QRST waveforms [5].
 - [MonoAlg3D_C](https://github.com/rsachetto/MonoAlg3D_C): an open-source high-performance GPU solver to numerically solve the monodomain equation.
 - [Eikonal model based ECG simulator](https://github.com/juliacamps/Inference-of-healthy-ventricular-activation-properties): an open-source fast Eikonal model based simulator (check the function eikonal_ecg).
+- [Reaction Eikonal model based ECG simulator](https://github.com/juliacamps/Cardiac_Personalisation): an open-source fast Reaction Eikonal model based simulator.
+- [Chaste](https://chaste.github.io/): Chaste (Cancer, Heart and Soft Tissue Environment) is a general purpose simulation package aimed at multi-scale, computationally demanding problems arising in biology and physiology.
+- [Cardioid](https://github.com/LLNL/cardioid): Cardioid is a cardiac multiscale simulation suite spanning from subcellular mechanisms up to simulations of organ-level clinical phenomena. The suite contains tools for simulating cardiac electrophysiology, cardiac mechanics, torso-ECGs, cardiac meshing and fiber generation tools.
+- [NeuroKit](https://github.com/neuropsychology/NeuroKit/tree/master): NeuroKit2 is a user-friendly package providing easy access to advanced biosignal processing routines. Researchers and clinicians without extensive knowledge of programming or biomedical signal processing can analyze physiological data with only two lines of code.
 
 ## Tutorial
 
