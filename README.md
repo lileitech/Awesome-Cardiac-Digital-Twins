@@ -43,6 +43,11 @@ Here, we summarize the representative research teams and organizations in the co
 | [Cardiac Electro-Mechanics Research Group (CEMRG)](https://www.cemrg.co.uk/)  | [Prof Steven Niederer](https://scholar.google.com/citations?user=rtBzy78AAAAJ&hl=en)   | Imperial College London, UK  |
 | [Personalized Cardiac Modelling Lab](https://pcmlab.co.uk/#:~:text=%2D%20Personalised%20Cardiac%20Modelling%20Lab,treatment%20approaches%20for%20cardiac%20arrhythmias.) | [Dr Caroline Roney](https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en)| Queen Mary University of London, UK|
 | [Leeds Systems Physiology Lab](http://physicsoftheheart.com/LCPL.html) | [Dr Michael A Colman](https://scholar.google.co.uk/citations?user=l8u7gSsAAAAJ&hl=en), [Prof Al Benson](https://scholar.google.co.uk/citations?user=XtVFdUkAAAAJ&hl=en) | University Of Leeds, UK |
+| [Cardiovascular Magnetic Resonance Group](https://cmr.ethz.ch/)  | [Prof Sebastian Kozerke](https://scholar.google.ch/citations?user=Y8rEIXMAAAAJ&hl=de)  | ETH Zurich, Switzerland |
+| [Peirlinck Lab](https://peirlincklab.com/) | [Dr Mathias Peirlinck](https://scholar.google.be/citations?user=vM2KbLQAAAAJ&hl=nl)            | Delft University of Technology, Netherlands |
+| [Modelling and Scientific Computing Laboratory (MOX)](https://mox.polimi.it/)  | [Prof Alfio Quarteroni](https://scholar.google.it/citations?user=U-iDlKcAAAAJ&hl=en)  | Politecnico di Milano, Italy |
+| [Computational Cardiac Modeling Group (CaMo)](https://www.ibt.kit.edu/english/camo.php)| [Prof Axel Loewe](https://scholar.google.de/citations?user=dLThgu0AAAAJ&hl=de)        | Karlsruhe Institute of Technology, Germany |
+| [Computational Cardiology](https://team.inria.fr/epione/en/computational-cardiology/) | [Prof Maxime Sermesant](https://scholar.google.com/citations?user=LTDUiAkAAAAJ&hl=en)  | Inria, France |
 | [Trayanova Lab](http://www.trayanovalab.org/)  | [Prof Natalia Trayanova](https://scholar.google.com/citations?user=oY3ePQ8AAAAJ&hl=en) | Johns Hopkins University, US  |
 | [Yoram Rudy Lab](https://rudylab.wustl.edu/)   | [Prof Yoram Rudy](https://rudylab.wustl.edu/people/yoram_rudy/) | Washington University in St. Louis, US|
 | [Biomedical Functional Imaging and Neuralengineering Lab](https://pht180.rit.edu/cblwang/)  | [Prof Bin He](https://www.cmu.edu/bme/People/Faculty/profile/bhe.html) | Carnegie Mellon University, US |
@@ -51,13 +56,10 @@ Here, we summarize the representative research teams and organizations in the co
 | [Computational Arrhythmia Research Lab](http://web.stanford.edu/group/narayanlab/cgi-bin/wordpress/) | [Prof Sanjiv Narayan](https://scholar.google.com/citations?user=355c8nQAAAAJ&hl=en) | Stanford University, US |
 | [Living Matter Lab](https://livingmatter.stanford.edu/) | [Prof Ellen Kuhl](https://scholar.google.com/citations?hl=en&user=jjQDKYYAAAAJ&view_op=list_works&sortby=pubdate)        | Stanford University, US |
 | [Cardiac Computation Lab](https://cclab.med.ucla.edu/) | [Prof Zhilin Qu](https://scholar.google.com/citations?user=WD2JcI4AAAAJ&hl=en)   | University of California, US |
+| [Computational Biomechanics Laboratory](https://biomechanics.yale.edu/) | [Prof Martin R. Pfaller](https://cbcl.stanford.edu/people/martin-pfaller) | Yale University, US |
+| [Computational Biomechanics Lab](https://mae.ucf.edu/luigiperotti/) | [Prof Luigi E. Perotti](https://mae.ucf.edu/person/luigi-perotti/) | University of Central Florida, US |
 | [Computational Cardiology Lab (CCL)](https://ccl.medunigraz.at/)  | [Prof Gernot Plank](https://scholar.google.com/citations?user=HAYpTDYAAAAJ&hl=en) | Medical University of Graz, Austria |
 | [Cardiac Electrophysiology Group](https://www.auckland.ac.nz/en/abi/our-research/research-groups-themes/cardiac-electrophysiology.html) | [Prof Bruce Smaill](https://scholar.google.co.nz/citations?user=mUlyaLsAAAAJ&hl=en) | University of Auckland, New Zealand |
-| [Cardiovascular Magnetic Resonance Group](https://cmr.ethz.ch/)  | [Prof Sebastian Kozerke](https://scholar.google.ch/citations?user=Y8rEIXMAAAAJ&hl=de)  | ETH Zurich, Switzerland |
-| [Peirlinck Lab](https://peirlincklab.com/) | [Dr Mathias Peirlinck](https://scholar.google.be/citations?user=vM2KbLQAAAAJ&hl=nl)            | Delft University of Technology, Netherlands | 
-| [Modelling and Scientific Computing Laboratory (MOX)](https://mox.polimi.it/)  | [Prof Alfio Quarteroni](https://scholar.google.it/citations?user=U-iDlKcAAAAJ&hl=en)  | Politecnico di Milano, Italy |
-| [Computational Cardiac Modeling Group (CaMo)](https://www.ibt.kit.edu/english/camo.php)| [Prof Axel Loewe](https://scholar.google.de/citations?user=dLThgu0AAAAJ&hl=de)        | Karlsruhe Institute of Technology, Germany |
-| [Computational Cardiology](https://team.inria.fr/epione/en/computational-cardiology/) | [Prof Maxime Sermesant](https://scholar.google.com/citations?user=LTDUiAkAAAAJ&hl=en)  | Inria, France |
 | [UT-Heart](http://ut-heart.com/) | [Prof Toshiaki Hisada](https://dblp.org/pid/29/2299.html)   | University of Tokyo, Japan |
 | [N/A](https://person.zju.edu.cn/0003436)   | [Prof Huafeng Liu 刘华峰](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en&oi=sra)  | Zhejiang University, China |
 | [N/A](https://person.zju.edu.cn/en/lingxia) | [Prof Ling Xia 夏灵](https://www.researchgate.net/scientific-contributions/Ling-Xia-47250411) | Zhejiang University, China |
@@ -95,6 +97,7 @@ Here, we summarize the representative research teams and organizations in the co
 - [Chaste](https://chaste.github.io/): Chaste (Cancer, Heart and Soft Tissue Environment) is a general purpose simulation package aimed at multi-scale, computationally demanding problems arising in biology and physiology.
 - [Cardioid](https://github.com/LLNL/cardioid): Cardioid is a cardiac multiscale simulation suite spanning from subcellular mechanisms up to simulations of organ-level clinical phenomena. The suite contains tools for simulating cardiac electrophysiology, cardiac mechanics, torso-ECGs, cardiac meshing and fiber generation tools.
 - [NeuroKit](https://github.com/neuropsychology/NeuroKit/tree/master): NeuroKit2 is a user-friendly package providing easy access to advanced biosignal processing routines. Researchers and clinicians without extensive knowledge of programming or biomedical signal processing can analyze physiological data with only two lines of code.
+- [Thunderbolt.jl](https://github.com/termi-official/Thunderbolt.jl): a modular shared-memory high-performance framework for multiscale cardiac multiphysics.
 
 ## Tutorial
 
