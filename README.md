@@ -37,30 +37,31 @@ Here, we summarize the representative research teams and organizations in the co
 
 | Team/ Lab                                                                    | PI                | Institute                                       |
 |-------------------------------------------------------------------------------------------------|-------------------|------------------------------------------------|
-| [Computational Cardiovascular Science Team](https://www.cs.ox.ac.uk/ccs/index.html)             | [Prof Blanca Rodriguez](https://scholar.google.com/citations?user=qYidL6sAAAAJ&hl=en)  | University of Oxford, UK  |
-| [Computational Biology Group](https://www.cs.ox.ac.uk/compbio/)             | [Prof David Gavaghan](https://scholar.google.com/citations?user=riGX3YsAAAAJ&hl=en)  | University of Oxford, UK  |
-| [Computational Cardiology Lab (CCL)](https://ccl.medunigraz.at/)                                | [Prof Gernot Plank](https://scholar.google.com/citations?user=HAYpTDYAAAAJ&hl=en)      | Medical University of Graz, Austria             |
-| [Trayanova Lab](http://www.trayanovalab.org/)                                                    | [Prof Natalia Trayanova](https://scholar.google.com/citations?user=oY3ePQ8AAAAJ&hl=en) | Johns Hopkins University, US                 |
-| [Yoram Rudy Lab](https://rudylab.wustl.edu/)                                        | [Prof Yoram Rudy](https://rudylab.wustl.edu/people/yoram_rudy/)            | Washington University in St. Louis, US                 |
-| [Computational Electrocardiology Lab](https://cvrti.utah.edu/the-macleod-laboratory/)            | [Prof Rob MacLeod](https://scholar.google.com/citations?user=seAo310AAAAJ&hl=en)       | University of Utah, US                         |
-| [Modelling and Scientific Computing Laboratory (MOX)](https://mox.polimi.it/)                    | [Prof Alfio Quarteroni](https://scholar.google.it/citations?user=U-iDlKcAAAAJ&hl=en)  | Politecnico di Milano, Italy                    |
-| [Cardiac Electro-Mechanics Research Group (CEMRG)](https://www.cemrg.co.uk/)                    | [Prof Steven Niederer](https://scholar.google.com/citations?user=rtBzy78AAAAJ&hl=en)   | Imperial College London, UK                    |
-| [Computational Biomedicine Lab (CBL)](https://pht180.rit.edu/cblwang/)                           | [Prof Linwei Wang](https://scholar.google.com/citations?user=CG56DzcAAAAJ&hl=en)       | Rochester Institute of Technology, US          |
-| [Computational Cardiology](https://team.inria.fr/epione/en/computational-cardiology/)            | [Prof Maxime Sermesant](https://scholar.google.com/citations?user=LTDUiAkAAAAJ&hl=en)  | Inria, France                                   |
-| [Computational Cardiac Modeling Group (CaMo)](https://www.ibt.kit.edu/english/camo.php)          | [Prof Axel Loewe](https://scholar.google.de/citations?user=dLThgu0AAAAJ&hl=de)        | Karlsruhe Institute of Technology, Germany      |
-| [Cardiac Electrophysiology Group](https://www.auckland.ac.nz/en/abi/our-research/research-groups-themes/cardiac-electrophysiology.html) | [Prof Bruce Smaill](https://scholar.google.co.nz/citations?user=mUlyaLsAAAAJ&hl=en) | University of Auckland, New Zealand     |
-| [Cardiac Computation Lab](https://cclab.med.ucla.edu/)                                           | [Prof Zhilin Qu](https://scholar.google.com/citations?user=WD2JcI4AAAAJ&hl=en)         | University of California, US                    |
-| [Computational Arrhythmia Research Lab](http://web.stanford.edu/group/narayanlab/cgi-bin/wordpress/) | [Prof Sanjiv Narayan](https://scholar.google.com/citations?user=355c8nQAAAAJ&hl=en) | Stanford University, US                         |
-| [Living Matter Lab](https://livingmatter.stanford.edu/)                                           | [Prof Ellen Kuhl](https://scholar.google.com/citations?hl=en&user=jjQDKYYAAAAJ&view_op=list_works&sortby=pubdate)        | Stanford University, US                         |
-| [UT-Heart](http://ut-heart.com/)                                                                 | [Prof Toshiaki Hisada](https://dblp.org/pid/29/2299.html)   | University of Tokyo, Japan                      |
-| [Leeds Systems Physiology Lab](http://physicsoftheheart.com/LCPL.html)                            | [Dr Michael A Colman](https://scholar.google.co.uk/citations?user=l8u7gSsAAAAJ&hl=en), [Prof Al Benson](https://scholar.google.co.uk/citations?user=XtVFdUkAAAAJ&hl=en) | University Of Leeds, UK             |
-| [Cardiovascular Magnetic Resonance Group](https://cmr.ethz.ch/)                                        | [Prof Sebastian Kozerke](https://scholar.google.ch/citations?user=Y8rEIXMAAAAJ&hl=de)            | ETH Zurich, Switzerland                   |
-| [Personalized Cardiac Modelling Lab](https://pcmlab.co.uk/#:~:text=%2D%20Personalised%20Cardiac%20Modelling%20Lab,treatment%20approaches%20for%20cardiac%20arrhythmias.)                                        | [Dr Caroline Roney](https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en)            | Queen Mary University of London, UK                   |
-| [Peirlinck Lab](https://peirlincklab.com/) | [Dr Mathias Peirlinck](https://scholar.google.be/citations?user=vM2KbLQAAAAJ&hl=nl)            | Delft University of Technology, Netherlands                   |
-| [Digital Heart Lab](https://digitalheartlab.com/)                                        | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)            | University of Southampton, UK                   |
-| [N/A](https://person.zju.edu.cn/0003436)   | [Prof Huafeng Liu 刘华峰](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en&oi=sra)            | Zhejiang University, China                   |
-| [N/A](https://person.zju.edu.cn/en/lingxia) | [Prof Ling Xia 夏灵](https://www.researchgate.net/scientific-contributions/Ling-Xia-47250411)            | Zhejiang University, China                   |
-| [N/A](http://faculty.dlut.edu.cn/dengdongdong/zh_CN/zhym/1071290/list/index.htm)                                       | [Prof Dongdong Deng 邓东冬](https://scholar.google.com/citations?user=dyoKMrAAAAAJ&hl=en)            | Dalian University of Technology, China                   |
+| [Digital Heart Lab](https://digitalheartlab.com/) | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)  | University of Southampton, UK  |
+| [Computational Cardiovascular Science Team](https://www.cs.ox.ac.uk/ccs/index.html)   | [Prof Blanca Rodriguez](https://scholar.google.com/citations?user=qYidL6sAAAAJ&hl=en)  | University of Oxford, UK  |
+| [Computational Biology Group](https://www.cs.ox.ac.uk/compbio/)  | [Prof David Gavaghan](https://scholar.google.com/citations?user=riGX3YsAAAAJ&hl=en)  | University of Oxford, UK  |
+| [Cardiac Electro-Mechanics Research Group (CEMRG)](https://www.cemrg.co.uk/)  | [Prof Steven Niederer](https://scholar.google.com/citations?user=rtBzy78AAAAJ&hl=en)   | Imperial College London, UK  |
+| [Personalized Cardiac Modelling Lab](https://pcmlab.co.uk/#:~:text=%2D%20Personalised%20Cardiac%20Modelling%20Lab,treatment%20approaches%20for%20cardiac%20arrhythmias.) | [Dr Caroline Roney](https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en)| Queen Mary University of London, UK|
+| [Leeds Systems Physiology Lab](http://physicsoftheheart.com/LCPL.html) | [Dr Michael A Colman](https://scholar.google.co.uk/citations?user=l8u7gSsAAAAJ&hl=en), [Prof Al Benson](https://scholar.google.co.uk/citations?user=XtVFdUkAAAAJ&hl=en) | University Of Leeds, UK |
+| [Trayanova Lab](http://www.trayanovalab.org/)  | [Prof Natalia Trayanova](https://scholar.google.com/citations?user=oY3ePQ8AAAAJ&hl=en) | Johns Hopkins University, US  |
+| [Yoram Rudy Lab](https://rudylab.wustl.edu/)   | [Prof Yoram Rudy](https://rudylab.wustl.edu/people/yoram_rudy/) | Washington University in St. Louis, US|
+| [Biomedical Functional Imaging and Neuralengineering Lab](https://pht180.rit.edu/cblwang/)  | [Prof Bin He](https://www.cmu.edu/bme/People/Faculty/profile/bhe.html) | Carnegie Mellon University, US |
+| [Computational Electrocardiology Lab](https://www.cmu.edu/bme/helab/) | [Prof Rob MacLeod](https://scholar.google.com/citations?user=seAo310AAAAJ&hl=en)  | University of Utah, US |
+| [Computational Biomedicine Lab (CBL)](https://pht180.rit.edu/cblwang/)  | [Prof Linwei Wang](https://scholar.google.com/citations?user=CG56DzcAAAAJ&hl=en)  | Rochester Institute of Technology, US |
+| [Computational Arrhythmia Research Lab](http://web.stanford.edu/group/narayanlab/cgi-bin/wordpress/) | [Prof Sanjiv Narayan](https://scholar.google.com/citations?user=355c8nQAAAAJ&hl=en) | Stanford University, US |
+| [Living Matter Lab](https://livingmatter.stanford.edu/) | [Prof Ellen Kuhl](https://scholar.google.com/citations?hl=en&user=jjQDKYYAAAAJ&view_op=list_works&sortby=pubdate)        | Stanford University, US |
+| [Cardiac Computation Lab](https://cclab.med.ucla.edu/) | [Prof Zhilin Qu](https://scholar.google.com/citations?user=WD2JcI4AAAAJ&hl=en)   | University of California, US |
+| [Computational Cardiology Lab (CCL)](https://ccl.medunigraz.at/)  | [Prof Gernot Plank](https://scholar.google.com/citations?user=HAYpTDYAAAAJ&hl=en) | Medical University of Graz, Austria |
+| [Cardiac Electrophysiology Group](https://www.auckland.ac.nz/en/abi/our-research/research-groups-themes/cardiac-electrophysiology.html) | [Prof Bruce Smaill](https://scholar.google.co.nz/citations?user=mUlyaLsAAAAJ&hl=en) | University of Auckland, New Zealand |
+| [Cardiovascular Magnetic Resonance Group](https://cmr.ethz.ch/)  | [Prof Sebastian Kozerke](https://scholar.google.ch/citations?user=Y8rEIXMAAAAJ&hl=de)  | ETH Zurich, Switzerland |
+| [Peirlinck Lab](https://peirlincklab.com/) | [Dr Mathias Peirlinck](https://scholar.google.be/citations?user=vM2KbLQAAAAJ&hl=nl)            | Delft University of Technology, Netherlands | 
+| [Modelling and Scientific Computing Laboratory (MOX)](https://mox.polimi.it/)  | [Prof Alfio Quarteroni](https://scholar.google.it/citations?user=U-iDlKcAAAAJ&hl=en)  | Politecnico di Milano, Italy |
+| [Computational Cardiac Modeling Group (CaMo)](https://www.ibt.kit.edu/english/camo.php)| [Prof Axel Loewe](https://scholar.google.de/citations?user=dLThgu0AAAAJ&hl=de)        | Karlsruhe Institute of Technology, Germany |
+| [Computational Cardiology](https://team.inria.fr/epione/en/computational-cardiology/) | [Prof Maxime Sermesant](https://scholar.google.com/citations?user=LTDUiAkAAAAJ&hl=en)  | Inria, France |
+| [UT-Heart](http://ut-heart.com/) | [Prof Toshiaki Hisada](https://dblp.org/pid/29/2299.html)   | University of Tokyo, Japan |
+| [N/A](https://person.zju.edu.cn/0003436)   | [Prof Huafeng Liu 刘华峰](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en&oi=sra)  | Zhejiang University, China |
+| [N/A](https://person.zju.edu.cn/en/lingxia) | [Prof Ling Xia 夏灵](https://www.researchgate.net/scientific-contributions/Ling-Xia-47250411) | Zhejiang University, China |
+| [N/A](http://faculty.dlut.edu.cn/dengdongdong/zh_CN/zhym/1071290/list/index.htm) | [Prof Dongdong Deng 邓东冬](https://scholar.google.com/citations?user=dyoKMrAAAAAJ&hl=en)| Dalian University of Technology, China |
 
 
 ## Project
@@ -76,7 +77,9 @@ Here, we summarize the representative research teams and organizations in the co
 ## Company
 
 - [Corify Care](https://corify.es/): A spain company focusing on changing the paradigm of treatment of atrial fibrillation patients by allowing personalised treatments.
-- []
+- [CardioInsight (Medtronic, USA)](https://europe.medtronic.com/xd-en/healthcare-professionals/therapies-procedures/cardiac-rhythm/cardioinsight-cardiac-mapping.html)
+- [Vivo (Catheter Precision)](https://www.catheterprecision.com/products/vivo/)
+- [EP Solutions SA](https://ep-solutions.ch/)
 
 ## Software
 
