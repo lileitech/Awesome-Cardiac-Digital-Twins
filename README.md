@@ -48,6 +48,7 @@ Here, we summarize the representative research teams and organizations in the co
 | [Modelling and Scientific Computing Laboratory (MOX)](https://mox.polimi.it/)  | [Prof Alfio Quarteroni](https://scholar.google.it/citations?user=U-iDlKcAAAAJ&hl=en)  | Politecnico di Milano, Italy |
 | [Computational Cardiac Modeling Group (CaMo)](https://www.ibt.kit.edu/english/camo.php)| [Prof Axel Loewe](https://scholar.google.de/citations?user=dLThgu0AAAAJ&hl=de)        | Karlsruhe Institute of Technology, Germany |
 | [Computational Cardiology](https://team.inria.fr/epione/en/computational-cardiology/) | [Prof Maxime Sermesant](https://scholar.google.com/citations?user=LTDUiAkAAAAJ&hl=en)  | Inria, France |
+| [He Lab](https://www.cmu.edu/bme/helab/)   | [Prof Bin He](https://www.cmu.edu/bme/People/Faculty/profile/bhe.html) |  Carnegie Mellon University, US|
 | [Trayanova Lab](http://www.trayanovalab.org/)  | [Prof Natalia Trayanova](https://scholar.google.com/citations?user=oY3ePQ8AAAAJ&hl=en) | Johns Hopkins University, US  |
 | [Yoram Rudy Lab](https://rudylab.wustl.edu/)   | [Prof Yoram Rudy](https://rudylab.wustl.edu/people/yoram_rudy/) | Washington University in St. Louis, US|
 | [Biomedical Functional Imaging and Neuralengineering Lab](https://pht180.rit.edu/cblwang/)  | [Prof Bin He](https://www.cmu.edu/bme/People/Faculty/profile/bhe.html) | Carnegie Mellon University, US |
