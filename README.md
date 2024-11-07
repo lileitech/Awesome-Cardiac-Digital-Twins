@@ -25,10 +25,16 @@ This is a curated repository of awesome Cardiac Digital Twin resources. Research
 
 Cardiac digital twins are personalized virtual representations combining cardiac images, ECG, and other subject-specific information [1].
 CDT workflows usually involve two stages, namely anatomical and functional twinnings, as shown in Fig. 1 [2].
+We also provided a short history flow about the CDT (see Fig. 2), and you can read more details about this in [5].
 
 <figure>
   <img src="images/fig_cardiac_digital_twins.png" alt="CDTs" style="width:750px;height:250px;">
   <figcaption>Fig. 1 The cardiac digital twin generation workflow.</figcaption>
+</figure>
+
+<figure>
+  <img src="images/fig_digitaltwin_history.png" alt="history" style="width:750px;height:250px;">
+  <figcaption>Fig. 2 The history of cardiac digital twins.</figcaption>
 </figure>
 
 ## Research Group
@@ -37,7 +43,7 @@ Here, we summarize the representative research teams and organizations in the co
 
 | Team/ Lab                                                                    | PI                | Institute                                       |
 |-------------------------------------------------------------------------------------------------|-------------------|------------------------------------------------|
-| [Digital Heart Lab](https://digitalheartlab.com/) | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)  | University of Southampton, UK  |
+| [Digital Heart Lab](https://digitalheartlab.com/) | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)  | National University of Singapore, Singapore  |
 | [Computational Cardiovascular Science Team](https://www.cs.ox.ac.uk/ccs/index.html)   | [Prof Blanca Rodriguez](https://scholar.google.com/citations?user=qYidL6sAAAAJ&hl=en)  | University of Oxford, UK  |
 | [Computational Biology Group](https://www.cs.ox.ac.uk/compbio/)  | [Prof David Gavaghan](https://scholar.google.com/citations?user=riGX3YsAAAAJ&hl=en)  | University of Oxford, UK  |
 | [Cardiac Electro-Mechanics Research Group (CEMRG)](https://www.cemrg.co.uk/)  | [Prof Steven Niederer](https://scholar.google.com/citations?user=rtBzy78AAAAJ&hl=en)   | Imperial College London, UK  |
@@ -142,3 +148,5 @@ Here, we summarize the representative research teams and organizations in the co
 [4]: Mirams, Gary R., et al. "Chaste: an open source C++ library for computational physiology and biology." PLoS computational biology 9.3 (2013): e1002970. [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002970)
 
 [5]: Van Oosterom, Allan, and T. F. Oostendorp. "ECGSIM: an interactive tool for studying the genesis of QRST waveforms." Heart 90.2 (2004): 165-168. [link](https://heart.bmj.com/content/90/2/165.short)
+
+[6]: Li, Lei, et al. Solving the Inverse Problem of Electrocardiography for Cardiac Digital Twins: A Survey, IEEE Reviews in Biomedical Engineering (2024). [link](https://ieeexplore.ieee.org/document/10735344)
