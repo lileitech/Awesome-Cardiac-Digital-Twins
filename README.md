@@ -43,6 +43,7 @@ Here, we summarize the representative research teams and organizations in the co
 
 | Team/ Lab                                                                    | PI                | Institute                                       |
 |-------------------------------------------------------------------------------------------------|-------------------|------------------------------------------------|
+| [Computational Physiology](https://www.simula.no/research/research-departments/computational-physiology) | [Dr Hermenegild Arevalo](https://scholar.google.com/citations?user=SjM9xiMAAAAJ&hl=no&oi=ao)  | Simula Research Laboratory, Oslo, Norway |
 | [Digital Heart Lab](https://digitalheartlab.com/) | [Dr Lei Li](https://scholar.google.com/citations?user=--CYiuwAAAAJ&hl=en)  | National University of Singapore, Singapore  |
 | [Computational Cardiovascular Science Team](https://www.cs.ox.ac.uk/ccs/index.html)   | [Prof Blanca Rodriguez](https://scholar.google.com/citations?user=qYidL6sAAAAJ&hl=en)  | University of Oxford, UK  |
 | [Computational Biology Group](https://www.cs.ox.ac.uk/compbio/)  | [Prof David Gavaghan](https://scholar.google.com/citations?user=riGX3YsAAAAJ&hl=en)  | University of Oxford, UK  |
@@ -106,6 +107,11 @@ Here, we summarize the representative research teams and organizations in the co
 - [Cardioid](https://github.com/LLNL/cardioid): Cardioid is a cardiac multiscale simulation suite spanning from subcellular mechanisms up to simulations of organ-level clinical phenomena. The suite contains tools for simulating cardiac electrophysiology, cardiac mechanics, torso-ECGs, cardiac meshing and fiber generation tools.
 - [NeuroKit](https://github.com/neuropsychology/NeuroKit/tree/master): NeuroKit2 is a user-friendly package providing easy access to advanced biosignal processing routines. Researchers and clinicians without extensive knowledge of programming or biomedical signal processing can analyze physiological data with only two lines of code.
 - [Thunderbolt.jl](https://github.com/termi-official/Thunderbolt.jl): a modular shared-memory high-performance framework for multiscale cardiac multiphysics.
+- [fenicsx-beat](https://github.com/finsberg/fenicsx-beat): Cardiac electrophysiology simulator in FEniCSx
+- [fenicsx-pulse](https://github.com/finsberg/fenicsx-pulse): Cardiac mechanics simulator in FEniCSx
+- [cardiac-geometries](https://github.com/ComputationalPhysiology/cardiac-geometriesx): Cardiac-geometries for dolfinx
+- [ukb-atlas](https://github.com/ComputationalPhysiology/ukb-atlas): Generate meshes from UK Biobank atlas
+- [Ambit](https://github.com/marchirschvogel/ambit): FEniCSx-based cardiovascular multi-physics solver
 
 ## Tutorial
 
