@@ -108,8 +108,8 @@ Here, we summarize the representative research teams and organizations in the co
 - [Cardioid](https://github.com/LLNL/cardioid): Cardioid is a cardiac multiscale simulation suite spanning from subcellular mechanisms up to simulations of organ-level clinical phenomena. The suite contains tools for simulating cardiac electrophysiology, cardiac mechanics, torso-ECGs, cardiac meshing and fiber generation tools.
 - [NeuroKit](https://github.com/neuropsychology/NeuroKit/tree/master): NeuroKit2 is a user-friendly package providing easy access to advanced biosignal processing routines. Researchers and clinicians without extensive knowledge of programming or biomedical signal processing can analyze physiological data with only two lines of code.
 - [Thunderbolt.jl](https://github.com/termi-official/Thunderbolt.jl): a modular shared-memory high-performance framework for multiscale cardiac multiphysics.
-- [fenicsx beat](https://github.com/finsberg/fenicsx-beat)
-- [fenicsx pulse](https://github.com/finsberg/fenicsx-pulse)
+- [fenicsx beat](https://github.com/finsberg/fenicsx-beat): a cardiac electrophysiology simulator in FEniCSx
+- [fenicsx pulse](https://github.com/finsberg/fenicsx-pulse): a cardiac mechanics solver based on FEniCSx.
 - [UKB atlas](https://github.com/ComputationalPhysiology/ukb-atlas): Generate meshes using the UK Biobank atlas
 - [cardiac geometriesx](https://github.com/ComputationalPhysiology/cardiac-geometriesx): a software package built on top of cariac-geometries-core that adds support for creating idealized cardiac geometries for dolfinx
 - [Ambit](https://github.com/marchirschvogel/ambit): Ambit is an open-source multi-physics finite element solver written in Python, supporting solid and fluid mechanics, fluid-structure interaction (FSI), and lumped-parameter models. It is tailored towards solving problems in cardiac mechanics, but may also be used for more general nonlinear finite element analysis. It uses the finite element backend FEniCSx and linear algebra library PETSc.
