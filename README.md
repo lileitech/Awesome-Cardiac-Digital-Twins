@@ -119,6 +119,7 @@ Here, we summarize the representative research teams and organizations in the co
 
 ## Tutorial
 
+- [CDT](https://www.youtube.com/watch?v=KLq-C2ZxOMg&t=161s): SIG-Cardiac online tutorial by Dr Julia Camps.
 - [EP simulator](https://www.ep-simulator.com/): Basic courses of cardiac electrophysiology.
 - [openCARP tutorials](https://opencarp.org/documentation/video-tutorials): Basic courses of cardiac electrophysiology.
 
