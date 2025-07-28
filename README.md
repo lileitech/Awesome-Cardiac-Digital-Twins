@@ -51,11 +51,13 @@ Here, we summarize the representative research teams and organizations in the co
 | [Leeds Systems Physiology Lab](http://physicsoftheheart.com/LCPL.html) | [Dr Michael A Colman](https://scholar.google.co.uk/citations?user=l8u7gSsAAAAJ&hl=en), [Prof Al Benson](https://scholar.google.co.uk/citations?user=XtVFdUkAAAAJ&hl=en) | University Of Leeds, UK |
 | [Center for Computatinal Imaging & Simulation Technologies in Biomedicine (CISTIB)](https://www.cistib.org/afrangi/) | [Prof Alejandro F Frangi](https://research.manchester.ac.uk/en/persons/alejandro-frangi) | University of Leeds, UK |
 | [Cardiovascular Magnetic Resonance Group](https://cmr.ethz.ch/)  | [Prof Sebastian Kozerke](https://scholar.google.ch/citations?user=Y8rEIXMAAAAJ&hl=de)  | ETH Zurich, Switzerland |
+| [Laboratory of Hemodynamics and Cardiovascular Technology](https://www.epfl.ch/labs/lhtc/)  | [Prof Nikos Stergiopulos](https://people.epfl.ch/nikolaos.stergiopulos)  | EPFL, Switzerland |
 | [Peirlinck Lab](https://peirlincklab.com/) | [Dr Mathias Peirlinck](https://scholar.google.be/citations?user=vM2KbLQAAAAJ&hl=nl)            | Delft University of Technology, Netherlands |
 | [Modelling and Scientific Computing Laboratory (MOX)](https://mox.polimi.it/)  | [Prof Alfio Quarteroni](https://scholar.google.it/citations?user=U-iDlKcAAAAJ&hl=en)  | Politecnico di Milano, Italy |
 | [Computational Cardiac Modeling Group (CaMo)](https://www.ibt.kit.edu/english/camo.php)| [Prof Axel Loewe](https://scholar.google.de/citations?user=dLThgu0AAAAJ&hl=de)        | Karlsruhe Institute of Technology, Germany |
 | [Computational Cardiology](https://team.inria.fr/epione/en/computational-cardiology/) | [Prof Maxime Sermesant](https://scholar.google.com/citations?user=LTDUiAkAAAAJ&hl=en)  | Inria, France |
 | [Computational Multiscale Simulation Laboratory (CoMMLab)](https://www.uv.es/commlab/index.html) | [Prof Rafael Sebastian Aguilar](https://www.uv.es/uvweb/universidad/es/ficha-persona-1285950309813.html?p2=rasea3&idA=) | Universitat de Valencia, Spain |
+| [Simula Research Laboratory](https://www.simula.no/) | [Prof Are Magnus Bruaset](https://www.simula.no/people/arem) | University of Oslo, Norway |
 | [Trayanova Lab](http://www.trayanovalab.org/)  | [Prof Natalia Trayanova](https://scholar.google.com/citations?user=oY3ePQ8AAAAJ&hl=en) | Johns Hopkins University, US  |
 | [Yoram Rudy Lab](https://rudylab.wustl.edu/)   | [Prof Yoram Rudy](https://rudylab.wustl.edu/people/yoram_rudy/) | Washington University in St. Louis, US|
 | [He Lab](https://www.cmu.edu/bme/helab/)  | [Prof Bin He](https://www.cmu.edu/bme/People/Faculty/profile/bhe.html) | Carnegie Mellon University, US |
@@ -69,8 +71,8 @@ Here, we summarize the representative research teams and organizations in the co
 | [Computational Cardiology Lab (CCL)](https://ccl.medunigraz.at/)  | [Prof Gernot Plank](https://scholar.google.com/citations?user=HAYpTDYAAAAJ&hl=en) | Medical University of Graz, Austria |
 | [Cardiac Electrophysiology Group](https://www.auckland.ac.nz/en/abi/our-research/research-groups-themes/cardiac-electrophysiology.html) | [Prof Bruce Smaill](https://scholar.google.co.nz/citations?user=mUlyaLsAAAAJ&hl=en) | University of Auckland, New Zealand |
 | [UT-Heart](http://ut-heart.com/) | [Prof Toshiaki Hisada](https://dblp.org/pid/29/2299.html)   | University of Tokyo, Japan |
-| [N/A](https://person.zju.edu.cn/0003436)   | [Prof Huafeng Liu 刘华峰](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en&oi=sra)  | Zhejiang University, China |
-| [N/A](https://person.zju.edu.cn/en/lingxia) | [Prof Ling Xia 夏灵](https://www.researchgate.net/scientific-contributions/Ling-Xia-47250411) | Zhejiang University, China |
+| [N/A](https://person.zju.edu.cn/0003436)   | [Prof Huafeng Liu](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en&oi=sra)  | Zhejiang University, China |
+| [N/A](https://person.zju.edu.cn/en/lingxia) | [Prof Ling Xia](https://www.researchgate.net/scientific-contributions/Ling-Xia-47250411) | Zhejiang University, China |
 | [N/A](http://faculty.dlut.edu.cn/dengdongdong/zh_CN/zhym/1071290/list/index.htm) | [Prof Dongdong Deng 邓东冬](https://scholar.google.com/citations?user=dyoKMrAAAAAJ&hl=en)| Dalian University of Technology, China |
 
 
@@ -106,6 +108,14 @@ Here, we summarize the representative research teams and organizations in the co
 - [Cardioid](https://github.com/LLNL/cardioid): Cardioid is a cardiac multiscale simulation suite spanning from subcellular mechanisms up to simulations of organ-level clinical phenomena. The suite contains tools for simulating cardiac electrophysiology, cardiac mechanics, torso-ECGs, cardiac meshing and fiber generation tools.
 - [NeuroKit](https://github.com/neuropsychology/NeuroKit/tree/master): NeuroKit2 is a user-friendly package providing easy access to advanced biosignal processing routines. Researchers and clinicians without extensive knowledge of programming or biomedical signal processing can analyze physiological data with only two lines of code.
 - [Thunderbolt.jl](https://github.com/termi-official/Thunderbolt.jl): a modular shared-memory high-performance framework for multiscale cardiac multiphysics.
+- [fenicsx beat](https://github.com/finsberg/fenicsx-beat)
+- [fenicsx pulse](https://github.com/finsberg/fenicsx-pulse)
+- [UKB atlas](https://github.com/ComputationalPhysiology/ukb-atlas): Generate meshes using the UK Biobank atlas
+- [cardiac geometriesx](https://github.com/ComputationalPhysiology/cardiac-geometriesx): a software package built on top of cariac-geometries-core that adds support for creating idealized cardiac geometries for dolfinx
+- [Ambit](https://github.com/marchirschvogel/ambit): Ambit is an open-source multi-physics finite element solver written in Python, supporting solid and fluid mechanics, fluid-structure interaction (FSI), and lumped-parameter models. It is tailored towards solving problems in cardiac mechanics, but may also be used for more general nonlinear finite element analysis. It uses the finite element backend FEniCSx and linear algebra library PETSc.
+- [biv-me](https://github.com/UOA-Heart-Mechanics-Research/biv-me): an end-to-end pipeline for generating guidepoint files (GPFiles) from CMR DICOMs, fitting biventricular models (biv-me models), and computing functional cardiac metrics such as volumes, strains, and wall thickness.
+- [simcardems](https://github.com/ComputationalPhysiology/simcardems): a FEniCS-based cardiac electro-mechanics solver and is developed as a part of the SimCardio Test project.
+- 
 
 ## Tutorial
 
